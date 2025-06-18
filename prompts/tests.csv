@@ -1,0 +1,6 @@
+account,conversation_id,turn,prompt,keywords,expected,use_llm
+demoUser1,,1,What is a stop-loss?,stop-loss;,An order that...,1
+demoUser1,,2,Give an example?,example;,,
+demoUser2,conv-risk,1,How do I risk 1% on $10k?,1%;risk;,,
+demoUser2,conv-risk,2,If my stop is 35 pips what lot?,lot;,,
+

@@ -1,0 +1,10 @@
+# Copy this to accounts.yaml and paste real session tokens.
+# NEVER commit real tokens to git.
+
+demoUser1:
+  base_url: https://dev-chat-api.c64f.com/v1/chat/messages/old
+  session_token: replace_here
+
+demoUser2:
+  base_url: https://dev-chat-api.c64f.com/v1/chat/messages/old
+  session_token: replace_here
