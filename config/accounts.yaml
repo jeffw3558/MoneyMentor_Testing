@@ -2,9 +2,9 @@
 # NEVER commit real tokens to git.
 
 demoUser1:
-  base_url: https://dev-chat-api.c64f.com/v1/chat/messages/old
-  session_token: replace_here
+  base_url: https://dev-chat-api.c64f.com/v1/chat/messages
+  session_token: replace
 
 demoUser2:
-  base_url: https://dev-chat-api.c64f.com/v1/chat/messages/old
-  session_token: replace_here
+  base_url: https://dev-chat-api.c64f.com/v1/chat/messages
+  session_token: replace
